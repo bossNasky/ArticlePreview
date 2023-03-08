@@ -1,0 +1,19 @@
+:root {
+  --clr-primary-400: hsl(210, 46%, 95%);
+  --clr-primary-300: hsl(212, 23%, 69%);
+  --clr-primary-200: hsl(214, 17%, 51%);
+  --clr-primary-100: hsl(217, 19%, 35%);
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+}
