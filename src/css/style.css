@@ -123,6 +123,7 @@ body {
   display: none;
   background-color: var(--clr-primary-100);
   border-radius: 6px;
+  transition: all 0.3s;
 }
 
 .share::after {
